@@ -79,22 +79,12 @@
   background-color: #f9f9f9;
   padding: 10px 20px;
   border-radius: 50px;
-   position: relative;
+   /* position: relative;
   left: 250px; 
-  
+   */
 
 }
-@media screen and (min-width: 360px) {
-  .search-box {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    background-color: #f0f4f9;
-    padding: 10px 20px;
-    border-radius: 50px;
-  }
-}
+
 
 
 .search-box img {

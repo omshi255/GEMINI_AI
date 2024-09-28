@@ -61,7 +61,7 @@ const Main = () => {
      </div>
         </div> }
        
-    </div>
+    
    
        <div className="main-bottom">
          <div className="search-box">
@@ -78,6 +78,7 @@ const Main = () => {
          
          </p>
        </div>
+     </div>
      </div>
   );
 };
